@@ -470,9 +470,13 @@ Follow this checklist to add a new domain entity end-to-end:
 ## 👤 Group
 
 **Pedro Galembeck**  
+
 **Beatriz Bistaffa**
+
 **Cecília Gontijo**
+
 **Lorena Villagelin**
+
 **Cauan Figueiredo Braga**
 
 ---
