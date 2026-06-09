@@ -467,10 +467,13 @@ Follow this checklist to add a new domain entity end-to-end:
 
 ---
 
-## 👤 Author
+## 👤 Group
 
 **Pedro Galembeck**  
-[github.com/galembeck](https://github.com/galembeck)
+**Beatriz Bistaffa**
+**Cecília Gontijo**
+**Lorena Villagelin**
+**Cauan Figueiredo Braga**
 
 ---
 
